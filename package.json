@@ -1,0 +1,38 @@
+{
+  "name": "keeprule",
+  "version": "1.0.0",
+  "description": "Investment principles from Buffett, Munger & masters - curated by KeepRule.com",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "data/principles.json"
+  ],
+  "keywords": [
+    "investing",
+    "buffett",
+    "munger",
+    "investment-principles",
+    "value-investing",
+    "finance",
+    "quotes",
+    "benjamin-graham",
+    "peter-lynch",
+    "stock-market",
+    "wisdom"
+  ],
+  "author": "William Wang",
+  "license": "MIT",
+  "homepage": "https://keeprule.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/henu-wang/keeprule-npm"
+  },
+  "bugs": {
+    "url": "https://github.com/henu-wang/keeprule-npm/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
